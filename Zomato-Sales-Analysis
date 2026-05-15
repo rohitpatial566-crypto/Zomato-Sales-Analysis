@@ -1,0 +1,46 @@
+ Zomato Data Analysis Project
+
+ Project Overview
+This project focuses on analyzing Zomato restaurant data to gain meaningful insights about customer behavior, restaurant trends, pricing patterns, and online ordering preferences. The analysis is performed using Python and popular data science libraries.
+
+The goal of this project is to understand how different factors such as restaurant type, cost, ratings, and online ordering impact customer choices.
+
+---
+
+ Objective
+To analyze Zomato restaurant data and extract useful business insights that can help improve decision-making, customer satisfaction, and restaurant performance.
+
+---
+
+ Tools & Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+Key Analysis Performed
+- Data cleaning and preprocessing
+- Handling missing and duplicate values
+- Analysis of restaurant types
+- Distribution of ratings
+- Online vs Offline order comparison
+- Cost for two people analysis
+- Correlation between features
+- Data visualization using graphs and charts
+
+---
+
+Key Insights
+- Dining restaurants are the most common type.
+- Most customers prefer affordable restaurants.
+- Online ordering restaurants generally receive higher ratings.
+- Cafe-type restaurants have higher online order demand.
+- Customer ratings are influenced by service and ordering mode.
+
+---
+
+## 📁 Project Structure
